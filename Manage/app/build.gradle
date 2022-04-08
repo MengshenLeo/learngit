@@ -1,7 +1,7 @@
 plugins {
     id 'com.android.application'
+    id 'com.mob.sdk'
 }
-
 android {
     compileSdk 31
 
@@ -50,4 +50,9 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
 
     implementation group: 'com.android.support', name: 'recyclerview-v7', version: '28.0.0'
+}
+MobSDK {
+    appKey "35ae8cdfeb387"
+    appSecret "fafc3fca457acbaedc88633188ad2991"
+    SMSSDK {}
 }
