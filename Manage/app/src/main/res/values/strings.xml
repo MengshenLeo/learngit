@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Manage</string>
+    <string name="infomation">主页</string>
+    <string name="company_name">xxxx有限公司</string>
+    <string name="begin_time">08:30</string>
+    <string name="end_time">17:30</string>
+</resources>

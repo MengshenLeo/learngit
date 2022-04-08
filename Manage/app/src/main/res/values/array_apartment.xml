@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="apartment">
+        <item>全部</item>
+        <item>卫生所</item>
+        <item>公服中心</item>
+        <item>物管中心</item>
+        <item>工程维修部</item>
+        <item>宿管中心</item>
+        <item>饮服中心</item>
+        <item>采供部</item>
+        <item>财务部</item>
+        <item>综合办</item>
+        <item>管理层</item>
+    </string-array>
+</resources>

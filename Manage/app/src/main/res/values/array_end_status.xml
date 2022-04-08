@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="end_status">
+        <item>全部</item>
+        <item>未打卡</item>
+        <item>正常</item>
+        <item>早退</item>
+    </string-array>
+</resources>
